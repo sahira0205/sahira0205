@@ -184,16 +184,16 @@ Custom shift key, case preservation, and handles non-alphabetic characters clean
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_color=00FF41" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&border_color=00FF41" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sahira0205&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_color=00FF41" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahira0205&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&border_color=00FF41" width="49%"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=sahira0205&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff" width="60%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahira0205&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=false" width="100%"/>
 
 </div>
 
