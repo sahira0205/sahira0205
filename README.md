@@ -34,16 +34,17 @@ status:      exploring — networking, blue team, and cryptography basics all on
 principle:   "understand the attack before you trust the defense."
 ```
 
+Completed a 1-month Cybersecurity Internship with SkillCraft Technology, building hands-on tools — ciphers, keyloggers, password auditors, pixel-level image encryption — alongside a full CCNA track (Cisco Networking Academy) and Red Hat system administration certs. Still going wide across networking, defensive tooling, and secure coding before narrowing in on a specialty.
 
 <br>
 
 ## `~$ tail -f /var/log/current_ops.log`
 
 ```
-[RECENT]   track:         CCNA — Cisco Networking Academy (3-course series complete)
-[RECENT]   completed:     PixGuard — pixel-level image encryption tool
+[DONE]     internship:    SkillCraft Technology — Cybersecurity Internship (1 month, completed Dec 2025)
+[DONE]     track:         CCNA — Cisco Networking Academy (3-course series complete)
 [RECENT]   completed:     CCNA: Enterprise Networking, Security & Automation (May 2026)
-[RECENT]   internship:    SkillCraft Technology — Cybersecurity Internship (Tasks 01–04 complete)
+[SHIPPED]  project:       PixGuard — pixel-level image encryption tool
 ```
 
 <br>
@@ -54,56 +55,62 @@ principle:   "understand the attack before you trust the defense."
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 pixguard
-**Pixel-level image encryption tool**
+### 🔐 security-toolset
+**Caesar cipher, image encryptor, password auditor**
 
-`Python` `Pillow` `Cryptography`
+`Python` `Tkinter` `Pillow`
 
-CLI tool that obfuscates images via RGB channel swapping and bitwise XOR — symmetric encryption, same operation for lock and unlock, with a configurable key (0–255).
+Three standalone tools: a classic Caesar cipher (encrypt/decrypt), a pixel-swap + XOR image encryptor, and a GUI password strength checker with real-time scoring.
 
-**[→ repo](https://github.com/sahira0205/pixguard)**
+**[→ repo](https://github.com/sahira0205/CyberSecurity/tree/main/CyberSecurity/CyberSecurity%20Projects/Security%20Toolset)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 basic-keylogger
+### 🔐 keylogger-project
 **Keystroke logger for educational diagnostics**
 
 `Python` `pynput`
 
-Captures and timestamps keystroke sessions, formats special keys into readable output. Built to understand how keylogging works from the defender's side — ships with an explicit ethical-use disclaimer.
+Captures and timestamps keystroke sessions, formats special keys into readable output. Built to understand keylogging from the defender's side — ships with an explicit ethical-use disclaimer.
 
-**[→ repo](https://github.com/sahira0205/basic-keylogger)**
+**[→ repo](https://github.com/sahira0205/CyberSecurity/tree/main/CyberSecurity/CyberSecurity%20Projects/Keylogger/Keylogger_Project)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 password-strength-checker
-**GUI password auditor with real-time scoring**
+### 🔐 skillcraft-cybersecurity-internship
+**1-month internship, SkillCraft Technology**
 
-`Python` `Tkinter` `Regex`
+`Python` `Security`
 
-Scores passwords against 5 criteria (length, case, digits, symbols) and gives live improvement suggestions — dark-mode UI, show/hide toggle.
+All four internship task deliverables in one place — ciphers, keylogging, password auditing, and image encryption — completed Dec 2025.
 
-**[→ repo](https://github.com/sahira0205/password-strength-checker)**
+**[→ repo](https://github.com/sahira0205/SkillCraft-Technology-CyberSecurity-Intern)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 caesar-cipher
-**Classic substitution cipher, encrypt + decrypt**
+### 📊 customer-churn-analysis
+**Telecom customer churn — SQL + Python EDA**
 
-`Python`
+`Python` `SQL` `Pandas`
 
-Custom shift key, case preservation, and handles non-alphabetic characters cleanly. The first task in the SkillCraft cybersecurity series — where the internship started.
+Exploratory data analysis on a telecom dataset to surface churn drivers — a data-analytics detour that still leans on the same investigative mindset as security work.
 
-**[→ repo](https://github.com/sahira0205/caesar-cipher)**
+**[→ repo](https://github.com/sahira0205/customer-churn-analysis)**
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**[→ all certificates](https://github.com/sahira0205/CyberSecurity/tree/main/CyberSecurity/CyberSecurity%20Certificates)**
+
+</div>
 
 <br>
 
@@ -184,8 +191,11 @@ Custom shift key, case preservation, and handles non-alphabetic characters clean
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahira0205&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_color=00FF41" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahira0205&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&border_color=00FF41" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sahira0205&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_color=00FF41" width="60%"/>
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sahira0205&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&border_color=00FF41" width="60%"/>
 
 <br>
 
