@@ -1,133 +1,105 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║  CLASSIFIED // INCIDENT REPORT // CASE-0x2903               ║
-║  ACCESS LEVEL: PUBLIC (declassified for recruiters)        ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1a1f29&height=200&section=header&text=SAHIRA&fontSize=48&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20Networking%20%C2%B7%20Blue%2FRed%20Curious&descAlignY=55&descSize=16" width="100%"/>
 
-# SUBJECT: `Sahira Arora`
-### aka `sahira0205` — STATUS: **AT LARGE**
-
-![Threat Level](https://img.shields.io/badge/THREAT_LEVEL-HIGH_(hireable)-red?style=for-the-badge&labelColor=0a0a0a)
-![Last Seen](https://img.shields.io/badge/LAST_SEEN-committing_to_main-brightgreen?style=for-the-badge&labelColor=0a0a0a)
-![Views](https://komarev.com/ghpvc/?username=yourusername&color=red&style=for-the-badge&label=FILE+ACCESSED)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=flat-square&label=SCANS)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00ff41?style=flat-square&labelColor=0d1117)
+![Clearance](https://img.shields.io/badge/CLEARANCE-STUDENT_%2F_LEARNING-00ff41?style=flat-square&labelColor=0d1117)
 
 </div>
 
 <br>
 
-## `> SECTION 01 — SUBJECT DOSSIER`
-
 ```
-┌─────────────────────────────────────────────────────┐
-│ ALIAS ..................... yourusername            │
-│ ROLE ....................... Software Engineer       │
-│ BASE OF OPERATIONS ......... /home/yourcity           │
-│ WEAPON OF CHOICE ........... Python, TypeScript       │
-│ MOTIVE ..................... shipping clean code      │
-│ KNOWN ACCOMPLICES .......... open-source community    │
-│ CRIMINAL RECORD ............ 0 fabricated projects    │
-└─────────────────────────────────────────────────────┘
+$ nmap -sV -A whoami.local
+
+Starting Nmap scan against Sahira...
+PORT     STATE   SERVICE          VERSION
+22/tcp   open    curiosity        always-on
+443/tcp  open    problem-solving  TLSv1.3
+1337/tcp open    ctf-mode         SkillCraft Internship track
+
+Scan complete. Host is up and paying attention.
 ```
 
-> **Field notes:** Subject has been under observation since `20XX`. No evidence of padded resumes or ghost commits has been found. Subject appears to genuinely enjoy debugging, which investigators find deeply suspicious.
-
 <br>
 
-## `> SECTION 02 — THREAT ASSESSMENT (capabilities on file)`
+## `~$ cat /etc/passwd | grep sahira`
 
-<table>
-<tr><td width="140"><b>🔴 CRITICAL</b></td><td>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python)
-
-</td></tr>
-<tr><td><b>🟠 ELEVATED</b></td><td>
-
-![React](https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=flat-square&logo=nodedotjs) ![Docker](https://img.shields.io/badge/-Docker-1a1a1a?style=flat-square&logo=docker)
-
-</td></tr>
-<tr><td><b>🟡 MODERATE</b></td><td>
-
-![AWS](https://img.shields.io/badge/-AWS-1a1a1a?style=flat-square&logo=amazonaws) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git)
-
-</td></tr>
-</table>
-
-<br>
-
-## `> SECTION 03 — INCIDENT TIMELINE (confirmed breaches)`
-
-<details open>
-<summary><b>🗂️ 2026-XX-XX — "Project Alpha" — repo compromised with actual working code</b></summary>
-<br>
-
-```diff
-+ stack:    Python · FastAPI · PostgreSQL
-+ result:   deployed to production, no survivors (bugs)
-+ evidence: https://github.com/yourusername/project-alpha
+```yaml
+name:        Sahira
+role:        B.Tech CSE Student, Cybersecurity-focused
+institution: Chitkara University
+status:      exploring — networking, blue team, and cryptography basics all on the table
+principle:   "understand the attack before you trust the defense."
 ```
 
-One-line summary of what it does and why it exists. What problem it solves, in plain language — no jargon.
 
-</details>
-
-<details>
-<summary><b>🗂️ 2025-XX-XX — "Project Beta" — unauthorized full-stack deployment</b></summary>
 <br>
 
-```diff
-+ stack:    React · Node.js · MongoDB
-+ result:   users acquired, feedback positive, sleep lost
-+ evidence: https://github.com/yourusername/project-beta
+## `~$ tail -f /var/log/current_ops.log`
+
+```
+[RECENT]   track:         CCNA — Cisco Networking Academy (3-course series complete)
+[RECENT]   completed:     PixGuard — pixel-level image encryption tool
+[RECENT]   completed:     CCNA: Enterprise Networking, Security & Automation (May 2026)
+[RECENT]   internship:    SkillCraft Technology — Cybersecurity Internship (Tasks 01–04 complete)
 ```
 
-Same — short, human description of the project's purpose and impact.
-
-</details>
-
-<details>
-<summary><b>🗂️ 2025-XX-XX — "Project Gamma" — reconnaissance mission (still active)</b></summary>
 <br>
 
-```diff
-! stack:    whatever you're learning right now
-! result:   in progress
-! evidence: classified until merge to main
-```
-
-</details>
-
-<br>
-
-## `> SECTION 04 — EVIDENCE LOCKER (recovered credentials)`
+## `~$ ls -la vault/ --sort=relevance`
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**📁 CERTIFICATIONS**
-- Credential One
-- Credential Two
-- Credential Three
+### 🔐 pixguard
+**Pixel-level image encryption tool**
 
-</td>
-<td width="33%" valign="top">
+`Python` `Pillow` `Cryptography`
 
-**📁 EDUCATION**
-- Degree, Institution
-- Expected: Month Year
-- GPA/CGPA: X.XX
+CLI tool that obfuscates images via RGB channel swapping and bitwise XOR — symmetric encryption, same operation for lock and unlock, with a configurable key (0–255).
+
+**[→ repo](https://github.com/YOUR_USERNAME/pixguard)**
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**📁 CONTRIBUTIONS**
-- Open source repo #1
-- Open source repo #2
-- Hackathon result
+### 🔐 basic-keylogger
+**Keystroke logger for educational diagnostics**
+
+`Python` `pynput`
+
+Captures and timestamps keystroke sessions, formats special keys into readable output. Built to understand how keylogging works from the defender's side — ships with an explicit ethical-use disclaimer.
+
+**[→ repo](https://github.com/YOUR_USERNAME/basic-keylogger)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 password-strength-checker
+**GUI password auditor with real-time scoring**
+
+`Python` `Tkinter` `Regex`
+
+Scores passwords against 5 criteria (length, case, digits, symbols) and gives live improvement suggestions — dark-mode UI, show/hide toggle.
+
+**[→ repo](https://github.com/YOUR_USERNAME/password-strength-checker)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 caesar-cipher
+**Classic substitution cipher, encrypt + decrypt**
+
+`Python`
+
+Custom shift key, case preservation, and handles non-alphabetic characters cleanly. The first task in the SkillCraft cybersecurity series — where the internship started.
+
+**[→ repo](https://github.com/YOUR_USERNAME/caesar-cipher)**
 
 </td>
 </tr>
@@ -135,36 +107,115 @@ Same — short, human description of the project's purpose and impact.
 
 <br>
 
-## `> SECTION 05 — SURVEILLANCE FEED (GitHub activity)`
+## `~$ grep -r "arsenal" ./stack --group-by=layer`
+
+<table>
+<tr><td><b>NETWORK / SECURITY</b></td><td>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00FF41)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00FF41)
+
+</td></tr>
+<tr><td><b>CLOUD / INFRA</b></td><td>
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=00FF41)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF41)
+
+</td></tr>
+<tr><td><b>LANGUAGES</b></td><td>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=00FF41)
+
+</td></tr>
+<tr><td><b>PLATFORMS</b></td><td>
+
+![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=flat-square&logo=hackthebox&logoColor=00FF41)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=flat-square&logo=tryhackme&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00FF41)
+
+</td></tr>
+</table>
+
+<br>
+
+## `~$ unzip credentials.zip`
+
+<table>
+<tr>
+<td width="33%">
+
+**🔓 NETWORKING**
+- CCNA: Introduction to Networks
+- CCNA: Switching, Routing & Wireless Essentials
+- CCNA: Enterprise Networking, Security & Automation
+- The Bits and Bytes of Computer Networking (Google/Coursera)
+
+</td>
+<td width="33%">
+
+**🔓 SECURITY**
+- Introduction to Cybersecurity (Cisco)
+- Cybersecurity Essentials (Cisco)
+- Foundations of Cybersecurity (Google/Coursera)
+
+</td>
+<td width="33%">
+
+**🔓 SYSTEMS / CLOUD**
+- Red Hat System Administration I (RH124)
+- Red Hat System Administration II (RH134)
+- Python Essentials 1 & 2 (Cisco)
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>every line maps to a real credential — swap in what's actually earned</sub></div>
+
+<br>
+
+## `~$ git log --stat`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" height="165" alt="Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast&hide_border=true&background=0a0a0a&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" height="165" alt="Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_color=00FF41" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff&border_color=00FF41" width="49%"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff" width="60%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=false" width="100%"/>
 
 </div>
 
 <br>
 
-## `> SECTION 06 — HOW TO REPORT A SIGHTING`
+## `~$ nc -lvp connect`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff0000)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:YOUR_EMAIL@example.com)
+
+<br><br>
+
+```
+> connection secure. handshake complete.
+> no backdoors here — just a work in progress.
+```
+
+<sub>Sahira · B.Tech CSE · Cybersecurity-focused · Chitkara University</sub>
 
 </div>
 
-<br>
-
-<div align="center">
-
-```
-[ CASE STATUS: OPEN — subject continues to commit code daily ]
-[ REWARD FOR CAPTURE: one (1) interview opportunity           ]
-```
-
-<sub>report generated automatically · do not attempt to close without an offer letter</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1f29,100:0d1117&height=100&section=footer" width="100%"/>
