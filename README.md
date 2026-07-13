@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1a1f29&height=200&section=header&text=SAHIRA&fontSize=48&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20Networking%20%C2%B7%20Blue%2FRed%20Curious&descAlignY=55&descSize=16" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=flat-square&label=SCANS)
+![Profile Views](https://komarev.com/ghpvc/?username=sahira0205&color=00ff41&style=flat-square&label=SCANS)
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00ff41?style=flat-square&labelColor=0d1117)
 ![Clearance](https://img.shields.io/badge/CLEARANCE-STUDENT_%2F_LEARNING-00ff41?style=flat-square&labelColor=0d1117)
 
@@ -61,7 +61,7 @@ principle:   "understand the attack before you trust the defense."
 
 CLI tool that obfuscates images via RGB channel swapping and bitwise XOR — symmetric encryption, same operation for lock and unlock, with a configurable key (0–255).
 
-**[→ repo](https://github.com/YOUR_USERNAME/pixguard)**
+**[→ repo](https://github.com/sahira0205/pixguard)**
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ CLI tool that obfuscates images via RGB channel swapping and bitwise XOR — sym
 
 Captures and timestamps keystroke sessions, formats special keys into readable output. Built to understand how keylogging works from the defender's side — ships with an explicit ethical-use disclaimer.
 
-**[→ repo](https://github.com/YOUR_USERNAME/basic-keylogger)**
+**[→ repo](https://github.com/sahira0205/basic-keylogger)**
 
 </td>
 </tr>
@@ -87,7 +87,7 @@ Captures and timestamps keystroke sessions, formats special keys into readable o
 
 Scores passwords against 5 criteria (length, case, digits, symbols) and gives live improvement suggestions — dark-mode UI, show/hide toggle.
 
-**[→ repo](https://github.com/YOUR_USERNAME/password-strength-checker)**
+**[→ repo](https://github.com/sahira0205/password-strength-checker)**
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +99,7 @@ Scores passwords against 5 criteria (length, case, digits, symbols) and gives li
 
 Custom shift key, case preservation, and handles non-alphabetic characters cleanly. The first task in the SkillCraft cybersecurity series — where the internship started.
 
-**[→ repo](https://github.com/YOUR_USERNAME/caesar-cipher)**
+**[→ repo](https://github.com/sahira0205/caesar-cipher)**
 
 </td>
 </tr>
@@ -203,9 +203,9 @@ Custom shift key, case preservation, and handles non-alphabetic characters clean
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sahira-arora)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/sahira0205)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:sahiraarora119@gmail.com)
 
 <br><br>
 
